@@ -75,7 +75,7 @@ run classification on it.
 
 Balanced_class_Dataset(80-20).csv is an already created Dataset ready for classification testing
 
-dOriginal Dataset
+Original Dataset
 ================================================================================
 
 This dataset was constructed by YOOCHOOSE GmbH to support participants in the RecSys Challenge 2015.

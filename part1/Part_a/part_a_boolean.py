@@ -3,7 +3,7 @@
 """
 Created on Mon Mar 23 17:50:11 2020
 
-@author: Dimitrios  Papaioannou
+@author: Dimitrios Papaioannou
 """
 import pandas as pd
 import numpy as np

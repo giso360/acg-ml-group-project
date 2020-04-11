@@ -1,4 +1,4 @@
-PART 1:Arrythmia Classification
+PART 1: Arrythmia Classification
 
 As the problem is split into two parts, in the project folder reside 2 python scripts
 (part_a_boolean.py,part_a_classes.py).

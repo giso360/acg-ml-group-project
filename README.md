@@ -11,14 +11,13 @@ performs classification the Arrythmia class-type.
 Arrythmia.data is the file where our Arrythmia dataset resides.
 Arrythmia.txt provides a data description on the Arrythmia dataset.
 
-PART 2: Unsupervised Learning - Clustering
+PART 2: Unsupervised Learning - Clustering 
 
 For the second part of this project, we tackle an unsupervised problem concerning a customer segmentation problem. 
 The dataset is from http://archive.ics.uci.edu/ml/datasets/Wholesale+customers.
  
 Due to the length of the script, as a first step please run the command in line 36. 
 The you can execute the hole code. 
-
 
 A small index of the code:
 1)	Initial we import the libraries and the dataset. (lines 1- 43)
@@ -75,7 +74,7 @@ run classification on it.
 
 Balanced_class_Dataset(80-20).csv is an already created Dataset ready for classification testing
 
-Original Dataset
+dOriginal Dataset
 ================================================================================
 
 This dataset was constructed by YOOCHOOSE GmbH to support participants in the RecSys Challenge 2015.

@@ -44,7 +44,7 @@ iii.	Plot the results (lines 719-774)
 
 
 PART 3: Regression Affairs
--
+================================================================================
 - Datasource: https://fairmodel.econ.yale.edu/vote2012/affairs.txt
 - regression_affairs.py contains code to generate most plots
 and data for affairs_PT (or simply PT)

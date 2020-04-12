@@ -74,7 +74,7 @@ run classification on it.
 
 Balanced_class_Dataset(80-20).csv is an already created Dataset ready for classification testing
 
--Original Dataset
+- Original Dataset
 
 
 This dataset was constructed by YOOCHOOSE GmbH to support participants in the RecSys Challenge 2015.
@@ -88,7 +88,7 @@ months in the year of 2014, reflecting the clicks and purchases performed by the
 of an on-line retailer in Europe.  To protect end users privacy, as well as the retailer,
 all numbers have been modified. Do not try to reveal the identity of the retailer.
 
--LICENSE
+- LICENSE
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
@@ -98,7 +98,7 @@ If you have any further questions or comments, please contact YooChoose <support
 The data is provided "as it is" and there is no obligation of YOOCHOOSE to correct it,
 improve it or to provide additional information about it.
 
--CLICKS DATASET FILE DESCRIPTION
+- CLICKS DATASET FILE DESCRIPTION
 
 The file yoochoose-clicks.dat comprising the clicks of the users over the items.
 Each record/line in the file has the following fields/format: Session ID, Timestamp, Item ID, Category
@@ -109,8 +109,8 @@ Each record/line in the file has the following fields/format: Session ID, Timest
  any other number indicates a brand. E.g. if an item has been clicked in the context of a promotion or special offer then the value will be "S", if the context was a brand i.e BOSCH,
  then the value will be an 8-10 digits number. If the item has been clicked under regular category, i.e. sport, then the value will be a number between 1 to 12. 
  
--BUYS DATSET FILE DESCRIPTION
-=
+- BUYS DATSET FILE DESCRIPTION
+
 The file yoochoose-buys.dat comprising the buy events of the users over the items.
 Each record/line in the file has the following fields: Session ID, Timestamp, Item ID, Price, Quantity
 
